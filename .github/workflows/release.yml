@@ -37,6 +37,6 @@ jobs:
 
       - name: release
         env:
-          GITHUB_TOKEN: ${{ secrets.githubToken }}
-          NPM_TOKEN: ${{ secrets.githubToken }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: yarn semantic-release
