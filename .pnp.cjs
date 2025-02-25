@@ -47,6 +47,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:94818988b135708eab86c7fd7c97177f9e519271bf1d1cd1d7188d8fd370d158c8a420d539ebb30717392694c7fe5a523fbab72b3d261d784469b5b6fb2e4d59#npm:10.4.20"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
+          ["conventional-changelog-conventionalcommits", "npm:8.0.0"],\
           ["core-js", "npm:3.40.0"],\
           ["cssnano", "virtual:94818988b135708eab86c7fd7c97177f9e519271bf1d1cd1d7188d8fd370d158c8a420d539ebb30717392694c7fe5a523fbab72b3d261d784469b5b6fb2e4d59#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\
@@ -4569,6 +4570,14 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../.yarn/berry/cache/conventional-changelog-conventionalcommits-npm-6.1.0-10dd027396-10c0.zip/node_modules/conventional-changelog-conventionalcommits/",\
         "packageDependencies": [\
           ["conventional-changelog-conventionalcommits", "npm:6.1.0"],\
+          ["compare-func", "npm:2.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:8.0.0", {\
+        "packageLocation": "../../.yarn/berry/cache/conventional-changelog-conventionalcommits-npm-8.0.0-b17be6f278-10c0.zip/node_modules/conventional-changelog-conventionalcommits/",\
+        "packageDependencies": [\
+          ["conventional-changelog-conventionalcommits", "npm:8.0.0"],\
           ["compare-func", "npm:2.0.0"]\
         ],\
         "linkType": "HARD"\
@@ -13841,6 +13850,7 @@ const RAW_RUNTIME_STATE =
           ["autoprefixer", "virtual:94818988b135708eab86c7fd7c97177f9e519271bf1d1cd1d7188d8fd370d158c8a420d539ebb30717392694c7fe5a523fbab72b3d261d784469b5b6fb2e4d59#npm:10.4.20"],\
           ["babel-polyfill", "npm:6.26.0"],\
           ["c8", "npm:7.14.0"],\
+          ["conventional-changelog-conventionalcommits", "npm:8.0.0"],\
           ["core-js", "npm:3.40.0"],\
           ["cssnano", "virtual:94818988b135708eab86c7fd7c97177f9e519271bf1d1cd1d7188d8fd370d158c8a420d539ebb30717392694c7fe5a523fbab72b3d261d784469b5b6fb2e4d59#npm:5.1.15"],\
           ["eslint", "npm:8.23.1"],\

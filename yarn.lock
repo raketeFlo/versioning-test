@@ -3766,6 +3766,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"conventional-changelog-conventionalcommits@npm:^8.0.0":
+  version: 8.0.0
+  resolution: "conventional-changelog-conventionalcommits@npm:8.0.0"
+  dependencies:
+    compare-func: "npm:^2.0.0"
+  checksum: 10c0/368ee2245094579b38e1beac110577f75d82ab341d1bc6943052d5243f8bacc9ea08222a91a595a17f5f4ccc321b926211da00dd25b43877a3c51d8218bc76f0
+  languageName: node
+  linkType: hard
+
 "conventional-changelog-core@npm:^4.2.1":
   version: 4.2.4
   resolution: "conventional-changelog-core@npm:4.2.4"
@@ -11871,6 +11880,7 @@ __metadata:
     autoprefixer: "npm:10.4.20"
     babel-polyfill: "npm:6.26.0"
     c8: "npm:7.14.0"
+    conventional-changelog-conventionalcommits: "npm:^8.0.0"
     core-js: "npm:3.40.0"
     cssnano: "npm:5.1.15"
     eslint: "npm:8.23.1"
