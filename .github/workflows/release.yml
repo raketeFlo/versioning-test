@@ -31,14 +31,8 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-      - name: Install dependencies
-        run: yarn install
-
-      - name: Build
-        run: yarn prod
-
       - name: release
         env:
           GITHUB_TOKEN: ${{ secrets.githubToken }}
           NPM_TOKEN: ${{ secrets.githubToken }}
-        run: pnpm exec semantic-release
+        run: npx semantic-release
