@@ -1,6 +1,6 @@
 {
-  "name": "react-vite-ts-boilerplate",
-  "description": "Very Fast React + Vite Boilerplate",
+  "name": "versioning-test",
+  "description": "",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -12,21 +12,10 @@
     "semantic-release": "semantic-release"
   },
   "bin": "./bin/react-vite-ts-boilerplate.js",
-  "keywords": [
-    "react",
-    "boilerplate",
-    "typescript",
-    "starter"
-  ],
-  "author": "sohyun-choi <sohyun4283@naver.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/choisohyun/react-vite-ts-boilerplate.git"
+    "url": "https://github.com/raketeFlo/versioning-test.git"
   },
-  "bugs": {
-    "url": "https://github.com/choisohyun/react-vite-ts-boilerplate/issues"
-  },
-  "homepage": "https://github.com/choisohyun/react-vite-ts-boilerplate#readme",
   "dependencies": {
     "react": "18.3.1",
     "react-dom": "18.3.1",
